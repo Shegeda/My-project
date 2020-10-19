@@ -1,0 +1,13 @@
+.toggle-planet {
+  margin-bottom: 1rem;
+}
+
+.button-row button {
+  margin-right: 1rem;
+  height: 50px;
+  margin-left: 16px;
+}
+
+.stardb-app .row {
+  margin-bottom: 1rem;
+}
