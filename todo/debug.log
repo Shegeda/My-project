@@ -1,0 +1,4 @@
+[0519/202136.698:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0519/202136.694:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0519/202136.773:ERROR:exception_snapshot_win.cc(98)] thread ID 12956 not found in process
+[0519/202136.773:ERROR:exception_snapshot_win.cc(98)] thread ID 18756 not found in process

@@ -1,0 +1,12 @@
+.item-add-form {
+  margin-top: 10px;
+  /* height: 37px; */
+}
+
+.item-add-form input {
+  margin-right: 6px;
+}
+
+.btn-outline-secondary {
+  height: 38px;
+}
